@@ -14,7 +14,7 @@ The code was run on Mac OSX 11.2.3 after installation of
 - and mpl-axes-aligner with "pip install mpl-axes-aligner"
 
 To run the code execute the JupyterLab Notebook file "ap.ipynb" in the folder "ap" or "train.ipynb" in the folder "train".
-In each folder, example HEKA files are provided ("testData_ap.dat" and "testData_100Hz_train.dat" from an experiment with single action potentials and trains of 20 action potentials at 100 Hz, respectively). The resulting export files are provided in the folders "Data".
+In each folder, example HEKA files are provided ("testData_ap.dat" and "testData_100Hz_train.dat" from an experiment with single action potentials and trains of 20 action potentials at 100 Hz, respectively). Furthermore, each folder contains the module heka_reader.py (https://github.com/campagnola/heka_reader), needed for reading .dat-files with Python. The resulting export files are provided in the folders "Data".
 The files "ap.pdf" and "train.pdf" contain exports of the JupyterLab Notebook file as PDFs. The output graphs embedded in the JupyterLab Notebook file are provided as seperate PNG-imgage files in the corresponding folders.
 
 There is detailed documentation of the Python code in the cells of the JupyterLab Notebook file. For more information contact hallermann@medizin.uni-leipzig.de
