@@ -1,5 +1,5 @@
 # 2021_CellReports
-This is code was used in the following publication:
+The code was used in the following publication:
 
 Large, Stable Spikes Exhibit Differential Broadening in Excitatory and Inhibitory Neocortical Boutons.
 Ritzau-Jost A, Tsintsadze T, Krueger M, Ader J, Bechmann I, Eilers J, Barbour B, Smith SM, Hallermann S.
